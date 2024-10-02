@@ -35,6 +35,7 @@ for i in n: # str 하나씩 쪼갬
 # 최종 결과 출력
 print(stack.pop())
 
+# 내풀이
 # from collections import deque
 
 # n = input()
